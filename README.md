@@ -31,4 +31,4 @@ GET  /api/v1/iot-service/plants/{plantId}
 PATCH /api/v1/iot-service/devices/patch/temperature/{deviceId}/{temp}
 PATCH /api/v1/iot-service/devices/patch/humidity/{deviceId}/{hum}
 
-BASE URL: https://wokwi.com/projects/414805589981671425
+URL: https://wokwi.com/projects/435721151320217601
